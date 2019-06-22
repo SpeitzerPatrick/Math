@@ -1,3 +1,4 @@
+数学类的笔记还是纸质笔记比较好
 ## -Current Process:Algebra-Michael Artin
 # Math
 ## basic(total:3):
